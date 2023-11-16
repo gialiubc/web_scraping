@@ -3,7 +3,7 @@
 ## Background Information
 In this project, information and data of planet Mars is scraped from Mars Temperature Data (https://static.bc-edx.com/data/web/mars_facts/temperature.html), and analysis is made using those data.
 
-![image](https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png))
+![image](https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png)
 
 
 ## Project Content
